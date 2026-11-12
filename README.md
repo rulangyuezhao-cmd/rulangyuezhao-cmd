@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rulangyuezhao-cmd/rulangyuezhao-cmd/main/assets/chelsea-banner.svg" alt="Chelsea Zhao — engineering, data and applied AI. From production processes to tools people can use." width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/zhao-chelsea/) · [Explore my MEng work](https://github.com/rulangyuezhao-cmd/meng-data-science-portfolio) · [ReasonEval](https://github.com/rulangyuezhao-cmd/mie1512-reasoneval-portfolio)
+[LinkedIn](https://www.linkedin.com/in/zhao-chelsea/) | [Résumé](resume/Chelsea_Zhao_Resume.pdf)
 
 My route into AI started in chemical engineering: production processes, quality problems, and the people who have to make a system work every day. That experience now shapes how I build software and evaluate models.
 
