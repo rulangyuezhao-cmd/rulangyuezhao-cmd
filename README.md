@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rulangyuezhao-cmd/rulangyuezhao-cmd/main/assets/chelsea-banner.svg" alt="Chelsea Zhao — engineering, data and applied AI. From production processes to tools people can use." width="100%">
+<img src="https://raw.githubusercontent.com/rulangyuezhao-cmd/rulangyuezhao-cmd/main/assets/chelsea-banner.svg?v=2" alt="Chelsea Zhao — end-to-end AI and software development. Frontend and UI, backend APIs, machine learning, computer vision and deployment." width="100%">
 
 [LinkedIn](https://www.linkedin.com/in/zhao-chelsea/) | [Résumé](resume/Chelsea_Zhao_Resume.pdf)
 
