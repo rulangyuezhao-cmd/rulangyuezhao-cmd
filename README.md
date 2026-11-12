@@ -12,7 +12,7 @@ I work across the application and the analysis: preparing data with SQL and Pyth
 
 | Experience | Question | Result | Methods |
 | --- | --- | --- | --- |
-| **[Wolseley Express · AI checkout](https://github.com/rulangyuezhao-cmd/meng-data-science-portfolio/tree/main/courses/che1800)**<br>U of T CMTE industry project · Jan–Oct 2026 | How can images identify every part and quantity at checkout? | **107 SKUs · 94.5% accuracy**<br>Complete-checkout measure on **2,905 validation images**. | **Vision:** PyTorch, YOLO, SAM, DINOv2<br>**Software:** Python, Tkinter, PyQt6, REST APIs<br>**Data/cloud:** SQL, Azure, Docker, remote Linux |
+| **Wolseley Express · AI checkout**<br>U of T CMTE industry project · Jan–Oct 2026 | How can images identify every part and quantity at checkout? | **107 SKUs · 94.5% accuracy**<br>Complete-checkout measure on **2,905 validation images**. | **Vision:** PyTorch, YOLO, SAM, DINOv2<br>**Software:** Python, Tkinter, PyQt6, REST APIs<br>**Data/cloud:** SQL, Azure, Docker, remote Linux |
 | **Big Data & AI Competition**<br>U of T IMI / Scotiabank · Nov 2023–Mar 2024 | Which financial records warrant investigation? | **Top 5 / 70 teams**<br>Analyzed **560K records**. | **Classification:** XGBoost, LightGBM<br>**Anomaly detection:** unsupervised methods, graph analysis<br>**Data:** SQL, Python, NLP |
 | **Atlantic Packaging · Analytics**<br>Process Engineer Co-op · Aug 2021–Sep 2022 | Which process changes reduce packaging costs? | **$300K annual savings · 36% cost reduction** in the targeted process. | **Analytics:** SQL, Python<br>**BI:** DOMO, Excel KPI dashboards<br>**Process:** controlled parameter testing |
 
