@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Chelsea Zhao — engineering, data and applied AI</title>
-  <desc id="desc">An original navy and cream design tracing a path from process engineering through data and models to useful applications.</desc>
+  <title id="title">Chelsea Zhao — end-to-end AI and software development</title>
+  <desc id="desc">End-to-end machine learning, computer vision and software development, connecting data and models to backend APIs and frontend interfaces.</desc>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#344253"/></pattern>
   </defs>
   <rect width="1200" height="340" rx="22" fill="#172331"/>
   <rect x="690" y="0" width="510" height="340" fill="url(#grid)"/>
   <rect x="54" y="48" width="40" height="5" rx="2" fill="#e8a887"/>
-  <text x="54" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#b8c6d3">ENGINEERING / DATA / APPLIED AI</text>
+  <text x="54" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#b8c6d3">AI / ML / COMPUTER VISION / SOFTWARE</text>
   <text x="50" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="69" font-weight="700" fill="#fff6e9">Chelsea Zhao</text>
-  <text x="54" y="220" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#d8e1e9">From production processes to tools people can use.</text>
+  <text x="54" y="218" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#d8e1e9">End-to-end AI &amp; software development</text>
+  <text x="54" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#b8c6d3">Frontend &amp; UI · Backend APIs · Models · Deployment</text>
   <text x="54" y="286" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#93a9bb">UNIVERSITY OF TORONTO  /  MENG + BASC</text>
   <path d="M800 89 H940 V174 H1098 V263 H884" fill="none" stroke="#84c5b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <g fill="#172331" stroke="#e8a887" stroke-width="3"><circle cx="800" cy="89" r="9"/><circle cx="940" cy="174" r="9"/><circle cx="1098" cy="263" r="9"/><circle cx="884" cy="263" r="9"/></g>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#e7eee9"><text x="780" y="61">PROCESS</text><text x="957" y="163">DATA</text><text x="1048" y="297">MODEL</text><text x="820" y="297">APPLICATION</text></g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#e7eee9"><text x="780" y="61">DATA</text><text x="957" y="163">MODELS</text><text x="1025" y="297">BACKEND APIs</text><text x="795" y="297">FRONTEND / UI</text></g>
 </svg>
